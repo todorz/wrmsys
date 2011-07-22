@@ -1,0 +1,2 @@
+serviceClass: wrmsys.client.GreetingService
+path: E876C09E82193FB3E0AA05662959982E.gwt.rpc

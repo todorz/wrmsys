@@ -1,0 +1,3 @@
+# Module wrmsys
+# RPC service class, partial path of RPC policy file
+wrmsys.client.GreetingService, E876C09E82193FB3E0AA05662959982E.gwt.rpc
